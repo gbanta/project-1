@@ -8,3 +8,5 @@
 - Github overview
 - Markdown language for README files
 - JavaScript ES6+ features
+
+- I learned how to make directories using the Unix shell
