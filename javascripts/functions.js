@@ -32,3 +32,11 @@ let sumEvens = inputArray => {
   }
   return sum;
 };
+
+//3E
+let alphaPosition = function(ch) {
+  let character = ch.toLowerCase();
+  let position = character.charCodeAt() - 96;
+  //'a'.charCodeAt() equates to 97, but need to offset by 1
+  return position;
+};
