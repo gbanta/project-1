@@ -21,3 +21,14 @@ let arrMax = inputArray => {
   inputArray.forEach(maxFunction);
   return max;
 };
+
+//3D
+let sumEvens = inputArray => {
+  let sum = 0;
+  for (const value of inputArray) {
+    if (value % 2 == 0) {
+      sum += value;
+    }
+  }
+  return sum;
+};
