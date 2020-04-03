@@ -10,3 +10,6 @@
 - JavaScript ES6+ features
 
 - I learned how to make directories using the Unix shell
+
+[Link to my 281 Website](https://pages.uoregon.edu/gbanta/281/)
+![gitOctocat](./images/gitOctocat.png)
