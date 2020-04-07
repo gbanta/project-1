@@ -1,12 +1,12 @@
 // jshint esversion: 7
 
 let dieImages = [
-  "die1.gif",
-  "die2.gif",
-  "die3.gif",
-  "die4.gif",
-  "die5.gif",
-  "die6.gif"
+  "./images/die1.gif",
+  "./images/die2.gif",
+  "./images/die3.gif",
+  "./images/die4.gif",
+  "./images/die5.gif",
+  "./images/die6.gif"
 ];
 
 //loading starting random dice images
